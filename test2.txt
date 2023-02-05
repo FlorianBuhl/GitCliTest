@@ -1,3 +1,4 @@
 tests
 and another line
 and a third line
+branch line
